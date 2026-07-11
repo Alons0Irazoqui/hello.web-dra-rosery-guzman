@@ -2,7 +2,7 @@
 
 Informe para el desarrollador encargado de construir la landing page de este negocio, partiendo de la plantilla base en HTML ya entregada. El objetivo es que este documento sirva como fuente de información del negocio y como guía de estilo/funcionalidad — **no define la estructura de secciones de la página**, ya que esa estructura ya existe en la plantilla HTML entregada y debe respetarse.
 
-> **Nota sobre las fuentes de esta información:** este negocio no proporcionó carpeta de imágenes ni archivos propios. Toda la información aquí reunida fue obtenida analizando sus redes sociales (Instagram y Facebook) y fuentes públicas de directorios médicos (Top Doctors, Doctoralia). No se encontraron públicamente teléfono, WhatsApp ni horarios de atención — estos campos quedan marcados como pendientes de confirmar directamente con la clienta antes de publicar la página.
+> **Nota sobre las fuentes de esta información:** este negocio no proporcionó carpeta de imágenes ni archivos propios. Toda la información aquí reunida fue obtenida analizando sus redes sociales (Instagram y Facebook) y fuentes públicas de directorios médicos (Top Doctors, Doctoralia). El teléfono/WhatsApp y los horarios de atención fueron confirmados directamente con la clienta y ya están incluidos en la sección 2.
 
 ---
 
@@ -39,7 +39,11 @@ Oasis Clinic
 Av. Sebastián Lerdo de Tejada No. 1031, Col. Segunda, C.P. 21100
 Mexicali, Baja California, México
 
-**Teléfono / WhatsApp / horarios:** *pendientes de confirmar con la clienta.* Dejar estos campos como placeholders claramente editables (ej. `[TELÉFONO]`, `[WHATSAPP]`, `[HORARIOS]`) para completarlos antes de publicar.
+**Teléfono / WhatsApp:** 55 6576 7982
+
+**Horarios de atención:**
+- Lunes a viernes: 4:00 pm – 7:30 pm
+- Sábados: 9:30 am – 1:00 pm
 
 **Redes sociales:**
 - Instagram: https://www.instagram.com/dra.rosemaryguzmansantacruz
@@ -95,7 +99,6 @@ La dirección de diseño debe sentirse:
 3. Aplica la paleta y el estilo premium/enterprise/high-tech/minimalista descritos arriba.
 4. Implementa preloader con spinner + logo, animaciones on-scroll, y los efectos de typewriter + color en el título del hero.
 5. Itera con Claude cuantas veces sea necesario hasta alcanzar el resultado final deseado.
-6. Antes de publicar, confirmar con la clienta los datos pendientes: teléfono, WhatsApp y horarios de atención.
 
 **Fuentes consultadas:**
 - [Top Doctors — Dra. Rosemary Guzmán Santa Cruz](https://www.topdoctors.mx/doctor/rosemary-guzman-santa-cruz/)

@@ -780,19 +780,6 @@ section { position: relative; }
 .location-detail strong { display: block; color: var(--color-primary); margin-bottom: 3px; font-size: 1rem; }
 .location-detail span, .location-detail p { color: var(--color-text-soft); font-size: 0.95rem; }
 
-.pending-tag {
-  display: inline-block;
-  padding: 2px 10px;
-  border-radius: var(--radius-pill);
-  border: 1.5px dashed var(--color-accent);
-  color: var(--color-accent);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  margin-left: 6px;
-}
-
 .location-visual {
   position: relative;
   border-radius: var(--radius-lg);
@@ -984,8 +971,6 @@ section { position: relative; }
   gap: 12px;
   font-size: 0.82rem;
 }
-.footer-bottom .disclaimer { color: rgba(255,255,255,0.4); max-width: 560px; }
-
 /* ==========================================================================
    14. Responsive
    ========================================================================== */
